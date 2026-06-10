@@ -32,7 +32,7 @@ public class Analgesico extends Medicamento {
 
     @Override
     public String getTipo() {
-        return "ANALGESICO";
+        return "ANALGÉSICO";
     }
 
     @Override
