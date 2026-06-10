@@ -112,7 +112,7 @@ public class SistemaFarmacia {
     private static void mostrarMenu() {
 
         System.out.println("\n==================================");
-        System.out.println("     SISTEMA DE FARMACIA");
+        System.out.println("  SISTEMA DE FARMACIA MEJORADO");
         System.out.println("==================================");
         System.out.println("1. Registrar Analgésico");
         System.out.println("2. Registrar Antibiótico");
