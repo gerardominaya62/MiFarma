@@ -240,7 +240,7 @@ public class FarmaciaService {
         return null;
     }
 
-    public void mostrarMedicamentosAgotados() {
+    /*public void mostrarMedicamentosAgotados() {
 
         boolean existe = false;
 
@@ -268,7 +268,7 @@ public class FarmaciaService {
                     "No existen medicamentos agotados."
             );
         }
-    }
+    }*/
 
     public void mostrarMedicamentosRetirados() {
 
